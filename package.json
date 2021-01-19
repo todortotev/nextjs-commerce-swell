@@ -5,6 +5,7 @@
   "author": "TodorTotev <51530311+TodorTotev@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
+    "next": "^10.0.5",
     "swell-js": "^3.6.2"
   },
   "devDependencies": {
